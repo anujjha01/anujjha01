@@ -2,7 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=42&duration=2500&pause=1200&color=FF5C7A&center=true&vCenter=true&width=520&height=70&lines=Hello!+I'm+Anuj" alt="Hello! I'm Anuj" />
 
-<a href="https://www.linkedin.com/in/anuj-jha-454135431/">LinkedIn</a> · <a href="https://leetcode.com/u/anuj_jha/">LeetCode</a>
+<a href="https://www.linkedin.com/in/anuj-jha-454135431/"><img src="https://skillicons.dev/icons?i=linkedin" height="24" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/anuj_jha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="24" /></a>
 
 </div>
 
