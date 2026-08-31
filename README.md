@@ -15,78 +15,44 @@
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## 🧠 About Me
-
-I'm Anuj — learning software development by building things, solving problems, and understanding the fundamentals behind the code.
-
-> **Curiosity → Code → Projects → Progress**
-
----
+I'm Anuj — learning software development by building projects, solving problems, and strengthening my fundamentals.
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,cpp" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,cpp" alt="Java TypeScript JavaScript C++" />
 </p>
 
-### 🌐 Backend & Web
+**Backend & Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend and Web" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js Express Spring Boot" />
 </p>
 
-### 🗄️ Databases
+**Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB PostgreSQL" />
 </p>
 
-### 🛠️ Tools
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
 </p>
 
----
+## 🚀 Currently Learning
 
-## 🚀 What I'm Learning
-
-- ☕ Java & Object-Oriented Programming
-- 🧩 Data Structures & Algorithms
-- 🌱 Spring Boot
-- 🔐 Authentication & REST APIs
-- 🗃️ SQL & NoSQL databases
-- 🌐 Full-stack development
-
----
-
-## 🎯 Current Focus
-
-```text
-Java          ███████████████░░░  Learning
-Spring Boot   ███████████░░░░░░░░  Exploring
-DSA           ████████████░░░░░░░  Practicing
-Backend       ██████████████░░░░░  Building
-```
-
-I’m focused on turning what I learn into real projects and gradually becoming a stronger developer.
-
----
-
-## 📌 Philosophy
-
-> **Don't just learn the syntax. Understand the system. Build it. Break it. Fix it. Repeat.**
+Java • Spring Boot • Data Structures & Algorithms • REST APIs • Authentication • Full-stack development
 
 ---
 
 <div align="center">
 
-### Learning • Building • Improving
-
-⭐ Thanks for visiting my profile!
+**Learning • Building • Improving**
 
 </div>
