@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Anuj 👋
 
-<!--
-**anujjha01/anujjha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st-year Electronics, Communication & Information Engineering student at IOE, WRC
 
-Here are some ideas to get you started:
+### Full-Stack Developer | Building scalable web apps & AI-powered products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Frontend
+TypeScript · JavaScript · React · Next.js · Tailwind CSS
+
+### Backend
+Node.js · Express.js · REST APIs · Socket.IO
+
+### Databases
+MongoDB · PostgreSQL
+
+### Tools & Platforms
+Git · GitHub · Vercel · Render
+
+## 🧠 Problem Solving
+- 💻 70+ LeetCode problems solved 
+
+---
+## Connect 
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuj-jha-454135431/)
+- 🧠 [LeetCode](https://leetcode.com/u/anuj_jha/)
+---
