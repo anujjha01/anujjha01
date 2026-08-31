@@ -22,6 +22,7 @@ I'm Anuj, learning software development by building projects, solving problems, 
 <table>
 <tr>
 <td align="center" width="180"><b>Languages</b></td>
+<td align="center" width="180"><b>Frontend</b></td>
 <td align="center" width="180"><b>Backend</b></td>
 <td align="center" width="180"><b>Databases</b></td>
 <td align="center" width="180"><b>Tools</b></td>
@@ -30,6 +31,11 @@ I'm Anuj, learning software development by building projects, solving problems, 
 <td align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="42" />
+<br><br>
+</td>
+<td align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=react" height="42" />
 <br><br>
 </td>
 <td align="center">
