@@ -2,7 +2,7 @@
 
 # Anuj Jha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Learning.;Building.;Improving.;Learning.+%7C+Building+%7C+Improving." alt="Learning Building Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Learning.;Building.;Improving.;Learning+%E2%80%A2+Building+%E2%80%A2+Improving." alt="Learning Building Improving" />
 
 <p>
   <a href="https://www.linkedin.com/in/anuj-jha-454135431/">
@@ -15,33 +15,78 @@
 
 </div>
 
-## About
+---
 
-I'm Anuj, focused on learning software development by building projects and strengthening my fundamentals.
+## 🧠 About Me
 
-I enjoy understanding how things work, experimenting with new technologies, and turning what I learn into practical projects.
+I'm Anuj — learning software development by building things, solving problems, and understanding the fundamentals behind the code.
 
-## What I'm Learning
+> **Curiosity → Code → Projects → Progress**
 
-- Java & Object-Oriented Programming
-- Data Structures & Algorithms
-- Spring Boot & backend development
-- REST APIs, authentication & databases
-- Full-stack web development
+---
 
-## Tech I'm Working With
+## ⚡ Tech Stack
+
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,cpp,nodejs,express,mongodb,postgres,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,cpp" alt="Languages" />
 </p>
 
-## Current Focus
+### 🌐 Backend & Web
 
-> Build consistently. Learn deeply. Improve every day.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend and Web" />
+</p>
 
-I'm currently focused on becoming stronger at backend development, Java, and problem solving while continuing to build real projects.
+### 🗄️ Databases
 
-## Connect
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases" />
+</p>
 
-- LinkedIn: [Anuj Jha](https://www.linkedin.com/in/anuj-jha-454135431/)
-- LeetCode: [anuj_jha](https://leetcode.com/u/anuj_jha/)
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
+
+---
+
+## 🚀 What I'm Learning
+
+- ☕ Java & Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🌱 Spring Boot
+- 🔐 Authentication & REST APIs
+- 🗃️ SQL & NoSQL databases
+- 🌐 Full-stack development
+
+---
+
+## 🎯 Current Focus
+
+```text
+Java          ███████████████░░░  Learning
+Spring Boot   ███████████░░░░░░░░  Exploring
+DSA           ████████████░░░░░░░  Practicing
+Backend       ██████████████░░░░░  Building
+```
+
+I’m focused on turning what I learn into real projects and gradually becoming a stronger developer.
+
+---
+
+## 📌 Philosophy
+
+> **Don't just learn the syntax. Understand the system. Build it. Break it. Fix it. Repeat.**
+
+---
+
+<div align="center">
+
+### Learning • Building • Improving
+
+⭐ Thanks for visiting my profile!
+
+</div>
