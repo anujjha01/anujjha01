@@ -19,21 +19,36 @@ I'm Anuj, learning software development by building projects, solving problems, 
 
 ## Tech Stack
 
-### Languages
-
+<table>
+<tr>
+<td align="center" width="180"><b>Languages</b></td>
+<td align="center" width="180"><b>Backend</b></td>
+<td align="center" width="180"><b>Databases</b></td>
+<td align="center" width="180"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+<br>
 <img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="42" />
-
-### Backend
-
+<br><br>
+</td>
+<td align="center">
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="42" />
-
-### Databases
-
+<br><br>
+</td>
+<td align="center">
+<br>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="42" />
-
-### Tools
-
+<br><br>
+</td>
+<td align="center">
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" />
+<br><br>
+</td>
+</tr>
+</table>
 
 </div>
 
