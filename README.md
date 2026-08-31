@@ -1,28 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Anuj+Jha" alt="Anuj Jha" />
+<h1>Anuj Jha</h1>
 
-<h3>Software Developer • Always learning new things 🚀</h3>
-
-<br>
-
-<a href="https://github.com/anujjha01">
-  <img src="https://img.icons8.com/fluency/48/github.png" width="42" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anuj-jha-454135431/">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="42" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/anuj_jha/">
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" width="42" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Always+learning+new+things+%F0%9F%9A%80;Exploring+new+technologies+%F0%9F%92%BB;Learning+something+new+every+day+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br><br>
 
-<p>
-  <i>Building • Learning • Improving</i>
-</p>
+<a href="https://www.linkedin.com/in/anuj-jha-454135431/">
+<img src="https://img.icons8.com/color/48/linkedin.png">
+</a>
+
+   
+
+<a href="https://leetcode.com/u/anuj_jha/">
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png">
+</a>
 
 </div>
 
