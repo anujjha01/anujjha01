@@ -6,32 +6,41 @@
 
 </div>
 
-## About
+---
+
+## About Me
 
 I'm Anuj, learning software development by building projects, solving problems, and strengthening my fundamentals.
+
+<br>
 
 <div align="center">
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="40" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="42" />
 
-**Backend**
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="42" />
 
-**Databases**
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" height="40" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" height="42" />
 
-**Tools**
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" />
 
 </div>
 
+---
+
 ## Currently Learning
 
-Java · Spring Boot · Data Structures & Algorithms · REST APIs · Authentication
+- Java & Spring Boot
+- Data Structures & Algorithms
+- REST APIs
+- Authentication & Backend Development
