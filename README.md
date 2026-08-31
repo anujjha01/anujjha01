@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#FF5C7A;">Hello! I'm Anuj</h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hello!%20I'm%20Anuj&fontSize=52&fontColor=FF5C7A&fontFamily=Caveat&fontAlign=50" alt="Hello! I'm Anuj" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=20&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&height=38&lines=Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" alt="Always learning • Always building • Always improving" />
 
