@@ -1,46 +1,47 @@
 <div align="center">
 
-<h1>Anuj Jha</h1>
+# Anuj Jha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Always+learning+new+things+%F0%9F%9A%80;Exploring+new+technologies+%F0%9F%92%BB;Learning+something+new+every+day+%F0%9F%93%9A" alt="Typing SVG" />
+### Learning. Building. Improving.
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/anuj-jha-454135431/">
-<img src="https://img.icons8.com/color/48/linkedin.png">
-</a>
-
-   
-
-<a href="https://leetcode.com/u/anuj_jha/">
-<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/anuj-jha-454135431/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/anuj_jha/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 </div>
 
+## About
 
+I'm Anuj, focused on learning software development by building projects and strengthening my fundamentals.
 
-### Full-Stack Developer | Building scalable web apps & AI-powered products
+I enjoy understanding how things work, experimenting with new technologies, and turning what I learn into practical projects.
 
-## Tech Stack
+## What I'm Learning
 
-### Frontend
-TypeScript · JavaScript · React · Next.js · Tailwind CSS
+- Java & Object-Oriented Programming
+- Data Structures & Algorithms
+- Spring Boot & backend development
+- REST APIs, authentication & databases
+- Full-stack web development
 
-### Backend
-Node.js · Express.js · REST APIs · Socket.IO
+## Tech I'm Working With
 
-### Databases
-MongoDB · PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,c,nodejs,express,mongodb,postgres,git,github" alt="Tech stack" />
+</p>
 
-### Tools & Platforms
-Git · GitHub · Vercel · Render
+## Current Focus
 
-## Problem Solving
-- 💻 70+ LeetCode problems solved 
+> Build consistently. Learn deeply. Improve every day.
 
----
-## Connect 
-- [LinkedIn](https://www.linkedin.com/in/anuj-jha-454135431/)
-- [LeetCode](https://leetcode.com/u/anuj_jha/)
----
+I'm currently focused on becoming stronger at backend development, Java, and problem solving while continuing to build real projects.
+
+## Connect
+
+- LinkedIn: [Anuj Jha](https://www.linkedin.com/in/anuj-jha-454135431/)
+- LeetCode: [anuj_jha](https://leetcode.com/u/anuj_jha/)
