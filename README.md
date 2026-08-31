@@ -2,7 +2,7 @@
 
 # Anuj Jha
 
-### Learning. Building. Improving.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Learning.;Building.;Improving.;Learning.+%7C+Building+%7C+Improving." alt="Learning Building Improving" />
 
 <p>
   <a href="https://www.linkedin.com/in/anuj-jha-454135431/">
@@ -32,7 +32,7 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 ## Tech I'm Working With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,c,nodejs,express,mongodb,postgres,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,cpp,nodejs,express,mongodb,postgres,git,github" alt="Tech stack" />
 </p>
 
 ## Current Focus
