@@ -1,6 +1,6 @@
 ### Full-Stack Developer | Building scalable web apps & AI-powered products
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 TypeScript · JavaScript · React · Next.js · Tailwind CSS
