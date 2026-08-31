@@ -1,7 +1,3 @@
-# Hey, I'm Anuj 👋
-
-1st-year Electronics, Communication & Information Engineering student at IOE, WRC
-
 ### Full-Stack Developer | Building scalable web apps & AI-powered products
 
 ## 🛠️ Tech Stack
