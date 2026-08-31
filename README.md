@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hello! I'm Anuj
+<h1 style="color:#FF5C7A;">Hello! I'm Anuj</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&height=35&lines=Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" alt="Always learning • Always building • Always improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=20&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&height=38&lines=Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" alt="Always learning • Always building • Always improving" />
 
-✦ ────────── ◈ ────────── ✦
+<br>
 
 <a href="https://www.linkedin.com/in/anuj-jha-454135431/"><img src="https://skillicons.dev/icons?i=linkedin" height="24" /></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/anuj_jha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="24" /></a>
