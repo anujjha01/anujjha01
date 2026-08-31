@@ -1,8 +1,6 @@
 <div align="center">
 
-# Anuj Jha
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=450&lines=Learning.;Building.;Improving.;Learning+%E2%80%A2+Building+%E2%80%A2+Improving." alt="Learning • Building • Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=42&duration=2500&pause=1200&color=FF5C7A&center=true&vCenter=true&width=520&height=70&lines=Hello!+I'm+Anuj" alt="Hello! I'm Anuj" />
 
 <a href="https://www.linkedin.com/in/anuj-jha-454135431/">LinkedIn</a> · <a href="https://leetcode.com/u/anuj_jha/">LeetCode</a>
 
@@ -12,19 +10,27 @@
 
 I'm Anuj, learning software development by building projects, solving problems, and strengthening my fundamentals.
 
+<div align="center">
+
 ## Tech Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="38" />
+**Languages**
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="38" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="40" />
 
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" height="38" />
+**Backend**
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="38" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="40" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" height="40" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+
+</div>
 
 ## Currently Learning
 
