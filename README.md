@@ -52,7 +52,7 @@ I'm Anuj, learning software development by building projects, solving problems, 
 
 <td align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" height="42" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="42" />
 <br><br>
 </td>
 
