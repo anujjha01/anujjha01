@@ -71,7 +71,5 @@ I'm Anuj, learning software development by building projects, solving problems, 
 
 ## Currently Learning
 
-* Java & Spring Boot
+* Nest.js
 * Data Structures & Algorithms
-* REST APIs
-* Authentication & Backend Development
