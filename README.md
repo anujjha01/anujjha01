@@ -34,7 +34,7 @@ I'm Anuj, learning software development by building projects, solving problems, 
 <tr>
 <td align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=java,ts,js,cpp" height="42" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp" height="42" />
 <br><br>
 </td>
 
