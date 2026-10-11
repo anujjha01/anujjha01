@@ -12,13 +12,13 @@
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a developer focused on backend engineering, with an interest in building reliable APIs, designing databases, and developing secure, maintainable applications. I enjoy learning by building practical projects and exploring how software systems work behind the scenes.
+### Backend Development • APIs • Database Systems
 
-My current focus is on **Node.js, Express.js, PostgreSQL, Prisma ORM, and Redis**, along with REST API development and authentication. I'm continuously strengthening my programming fundamentals, problem-solving skills, and understanding of backend architecture.
+Building practical projects, exploring backend technologies, and sharpening problem-solving skills one step at a time.
 
-I believe in consistent learning, writing clear code, and improving through hands-on projects.
+</div>
 
 <br>
 
@@ -62,7 +62,7 @@ I believe in consistent learning, writing clear code, and improving through hand
 
 <td align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="42" />
 <br><br>
 </td>
 
