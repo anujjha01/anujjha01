@@ -14,7 +14,11 @@
 
 ## About Me
 
-I'm Anuj, learning software development by building projects, solving problems, and strengthening my fundamentals.
+I'm a developer focused on backend engineering, with an interest in building reliable APIs, designing databases, and developing secure, maintainable applications. I enjoy learning by building practical projects and exploring how software systems work behind the scenes.
+
+My current focus is on **Node.js, Express.js, PostgreSQL, Prisma ORM, and Redis**, along with REST API development and authentication. I'm continuously strengthening my programming fundamentals, problem-solving skills, and understanding of backend architecture.
+
+I believe in consistent learning, writing clear code, and improving through hands-on projects.
 
 <br>
 
