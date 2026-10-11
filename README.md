@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/anuj-jha-454135431/"><img src="https://skillicons.dev/icons?i=linkedin" height="24" /></a> <a href="https://leetcode.com/u/anuj_jha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="24" /></a>
+<a href="https://www.linkedin.com/in/anuj-kumar-jha-2a149b440/?isSelfProfile=true"><img src="https://skillicons.dev/icons?i=linkedin" height="24" /></a> <a href="https://leetcode.com/u/anuj_jha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="24" /></a>
 
 </div>
 
